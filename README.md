@@ -1,7 +1,9 @@
 # 🌐 Validated AWS VPC Internet Access Setup (QA Perspective)
 
 ## Project Overview  
+
 This project demonstrates how to **build, configure, and validate a secure AWS Virtual Private Cloud (VPC) with internet connectivity.** Emphasis is placed on **ensuring repeatable deployment, correctness of configuration, and auditing of all network components**, aligning cloud expertise with QA principles.
+
 ---
 ## QA-Relevant Goals:
 
@@ -20,7 +22,7 @@ This project demonstrates how to **build, configure, and validate a secure AWS V
 ## Tech Stack:
 - AWS CLI | Amazon VPC | Subnets | Internet Gateway | Route Tables | Security Groups
 ---
-##Impact / QA Takeaway:
+## Impact / QA Takeaway:
 
 - Demonstrates ability to ensure deployed infrastructure meets expected specifications
 - Highlights process-oriented and detail-focused mindset, key for QA roles
